@@ -8,6 +8,8 @@
   <img alt="Cai Rui — Mathematics, Computing, and Artificial Intelligence" src="./assets/banner-light.svg" width="100%">
 </picture>
 
+<h1 align="center">蔡锐 · Cai Rui</h1>
+
 <p align="center">
   <sub>UNDERGRADUATE · INFORMATION AND COMPUTING SCIENCE · UESTC</sub>
 </p>

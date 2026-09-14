@@ -8,6 +8,8 @@
   <img alt="蔡锐 — 数学、计算与人工智能" src="./assets/banner-light.svg" width="100%">
 </picture>
 
+<h1 align="center">蔡锐 · Cai Rui</h1>
+
 <p align="center">
   <sub>本科生 · 信息与计算科学 · 电子科技大学</sub>
 </p>
