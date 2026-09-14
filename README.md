@@ -12,10 +12,6 @@
   <sub>UNDERGRADUATE · INFORMATION AND COMPUTING SCIENCE · UESTC</sub>
 </p>
 
-<p align="center">
-  <code>LEARNING CAREFULLY</code>&nbsp;&nbsp; <code>BUILDING STEADILY</code>&nbsp;&nbsp; <code>SHARING HONESTLY</code>
-</p>
-
 ## About
 
 I am an undergraduate student in **Information and Computing Science** at the University of Electronic Science and Technology of China.
@@ -52,6 +48,8 @@ Linux · Data Analysis · Machine Learning
 ## Contact
 
 - GitHub: [@Crr-ui](https://github.com/Crr-ui)
+- Email: [3082879128@qq.com](mailto:3082879128@qq.com)
+- Email: [13688467698@163.com](mailto:13688467698@163.com)
 
 <br>
 

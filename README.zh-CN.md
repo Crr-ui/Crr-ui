@@ -12,10 +12,6 @@
   <sub>本科生 · 信息与计算科学 · 电子科技大学</sub>
 </p>
 
-<p align="center">
-  <code>认真学习</code>&nbsp;&nbsp; <code>持续构建</code>&nbsp;&nbsp; <code>真实分享</code>
-</p>
-
 ## 关于我
 
 我是电子科技大学数学科学学院**信息与计算科学**专业的一名本科生。
@@ -52,6 +48,8 @@ Linux · 数据分析 · 机器学习
 ## 联系方式
 
 - GitHub：[@Crr-ui](https://github.com/Crr-ui)
+- 邮箱：[3082879128@qq.com](mailto:3082879128@qq.com)
+- 邮箱：[13688467698@163.com](mailto:13688467698@163.com)
 
 <br>
 
