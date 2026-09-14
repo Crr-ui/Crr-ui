@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="#about">About</a> &nbsp;·&nbsp; <a href="#current-chapter--01">Now</a> &nbsp;·&nbsp; <a href="#toolbox">Toolbox</a> &nbsp;&nbsp;│&nbsp;&nbsp; <strong>English</strong> &nbsp;·&nbsp; <a href="./README.zh-CN.md">中文</a>
+  <a href="#about">About</a> &nbsp;·&nbsp; <a href="#honors--awards">Honors</a> &nbsp;·&nbsp; <a href="#learning">Learning</a> &nbsp;&nbsp;│&nbsp;&nbsp; <strong>English</strong> &nbsp;·&nbsp; <a href="./README.zh-CN.md">中文</a>
 </p>
 
 <picture>
@@ -14,48 +14,70 @@
 
 ## About
 
-I am an undergraduate student in **Information and Computing Science** at the University of Electronic Science and Technology of China.
+I am a university student with a love for mathematics, physics, and exploring new things. I enjoy helping fellow students navigate their studies and university life.
 
-With a foundation in mathematics, I am learning how ideas become useful through computation. I am especially interested in the space where **mathematics, computing, and artificial intelligence** meet—and I am documenting that journey here through small experiments and thoughtful practice.
+## Interests
 
-## Current chapter · 01
+- **Sport** · Fitness, running, and watching UFC.
+- **Travel** · Exploring different cities, with more trips around China planned for 2026.
+- **Games & esports** · Playing Honor of Kings and following the KPL.
+- **Anime & stories** · A fan of One Piece and Pokémon, with an interest in AI-generated animated shorts.
 
-<table>
-  <tr>
-    <td width="26%"><sub>STATUS</sub><br><strong>Foundations in progress</strong></td>
-    <td width="74%">Building the habits, tools, and mathematical intuition needed to turn ideas into small, useful programs.</td>
-  </tr>
-</table>
+## Places I've been
 
-|  | Focus | Direction |
-| :---: | --- | --- |
-| `01` | **Python** | Programming fundamentals and clear problem solving |
-| `02` | **Git & GitHub** | A reliable, open workflow for learning and building |
-| `03` | **Artificial Intelligence** | Core ideas explored through mathematics and experiments |
-| `04` | **Software Development** | Designing, testing, and documenting useful software |
+A growing collection of mountains, streets, and cities.
 
-## Toolbox
+<details>
+<summary>20 cities visited · Explore the list</summary>
+
+| Province / municipality | Cities visited |
+| --- | --- |
+| Anhui | Lu'an, Huangshan, Hefei |
+| Jiangsu | Suzhou, Nanjing |
+| Zhejiang | Hangzhou |
+| Shanghai | Shanghai |
+| Beijing | Beijing |
+| Guangdong | Shenzhen |
+| Sichuan | Chengdu |
+| Hubei | Enshi, Wuhan |
+| Hunan | Changsha, Zhangjiajie |
+| Gansu | Zhangye |
+| Shandong | Qingdao, Rizhao |
+| Chongqing | Chongqing |
+| Henan | Luoyang, Kaifeng |
+
+</details>
+
+## Honors & awards
+
+| Honor | Award |
+| --- | --- |
+| China Undergraduate Mathematical Contest in Modeling | National Second Prize |
+| Mathematical Modeling Elite League | National First Prize |
+| Mathematics competitions | Provincial Third Prize, twice |
+| National Scholarship | Recipient |
+
+<!-- Competition names are descriptive translations; full certificate titles and award years are to be confirmed. -->
+
+## Learning
+
+I am curious about what AI can do, especially **AI agents** and **AI-generated animated shorts**. I have taken part in one hackathon and am learning to use Codex for programming while building my foundations in AI and software development.
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
+  <img alt="Learning Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white">
+  <img alt="Learning Git" src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white">
+  <img alt="Using GitHub" src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
 </p>
 
-<sub>LEARNING NEXT</sub>  
-Linux · Data Analysis · Machine Learning
-
 ## Contact
+
+Happy to talk about learning and technology, or help fellow students with questions about studies and university life.
 
 - GitHub: [@Crr-ui](https://github.com/Crr-ui)
 - Email: [3082879128@qq.com](mailto:3082879128@qq.com)
 - Email: [13688467698@163.com](mailto:13688467698@163.com)
 
 <br>
-
-<p align="center">
-  <em>Mathematics gives me a language for ideas. Computing gives me a way to make them work.</em>
-</p>
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Crr-ui&label=PROFILE%20VIEWS&color=6e7681&style=flat-square">

@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="#关于我">关于</a> &nbsp;·&nbsp; <a href="#当前阶段--01">近况</a> &nbsp;·&nbsp; <a href="#工具与技能">工具</a> &nbsp;&nbsp;│&nbsp;&nbsp; <a href="./README.md">English</a> &nbsp;·&nbsp; <strong>中文</strong>
+  <a href="#关于我">关于</a> &nbsp;·&nbsp; <a href="#荣誉奖项">荣誉</a> &nbsp;·&nbsp; <a href="#正在学习">学习</a> &nbsp;&nbsp;│&nbsp;&nbsp; <a href="./README.md">English</a> &nbsp;·&nbsp; <strong>中文</strong>
 </p>
 
 <picture>
@@ -14,48 +14,70 @@
 
 ## 关于我
 
-我是电子科技大学数学科学学院**信息与计算科学**专业的一名本科生。
+我是一名大学生，喜欢数学和物理，也热衷于探索新事物。乐于和学弟学妹交流，分享学业与生活中的经验。
 
-以数学为基础，我正在学习如何借助计算让想法真正发挥作用。我尤其关注**数学、计算与人工智能**的交叉地带，也会通过小型实验与认真实践，在这里持续记录自己的探索过程。
+## 兴趣爱好
 
-## 当前阶段 · 01
+- **运动** · 健身、跑步，也喜欢看 UFC。
+- **旅行** · 喜欢到不同城市走走，计划在 2026 年继续探索中国各地。
+- **游戏与赛事** · 玩《王者荣耀》，关注 KPL。
+- **动漫与故事** · 喜欢《海贼王》和《宝可梦》，也对 AI 漫剧感兴趣。
 
-<table>
-  <tr>
-    <td width="26%"><sub>当前状态</sub><br><strong>正在建立基础</strong></td>
-    <td width="74%">培养将想法转化为小而有用的程序所需要的习惯、工具与数学直觉。</td>
-  </tr>
-</table>
+## 旅行足迹
 
-|  | 方向 | 当前目标 |
-| :---: | --- | --- |
-| `01` | **Python** | 编程基础与清晰的问题求解能力 |
-| `02` | **Git 与 GitHub** | 建立可靠、开放的学习与开发工作流 |
-| `03` | **人工智能** | 通过数学原理和动手实验理解核心概念 |
-| `04` | **软件开发** | 学习设计、测试并记录真正有用的软件 |
+从山川到城市，记录走过的地方。
 
-## 工具与技能
+<details>
+<summary>已走过 20 座城市 · 展开查看</summary>
+
+| 省份 / 直辖市 | 去过的城市 |
+| --- | --- |
+| 安徽 | 六安、黄山、合肥 |
+| 江苏 | 苏州、南京 |
+| 浙江 | 杭州 |
+| 上海 | 上海 |
+| 北京 | 北京 |
+| 广东 | 深圳 |
+| 四川 | 成都 |
+| 湖北 | 恩施、武汉 |
+| 湖南 | 长沙、张家界 |
+| 甘肃 | 张掖 |
+| 山东 | 青岛、日照 |
+| 重庆 | 重庆 |
+| 河南 | 洛阳、开封 |
+
+</details>
+
+## 荣誉奖项
+
+| 荣誉 | 奖项 |
+| --- | --- |
+| 全国大学生数学建模竞赛 | 国家二等奖 |
+| 数学建模精英联赛 | 国家一等奖 |
+| 数学竞赛 | 省级三等奖，两次 |
+| 国家奖学金 | 获得者 |
+
+<!-- 待补充：建模精英联赛、数学竞赛的证书全称，以及各项获奖年份。 -->
+
+## 正在学习
+
+对 AI 能做什么充满好奇，尤其关注 **AI Agent** 与 **AI 漫剧**。参加过一次黑客松，正在学习使用 Codex 辅助编程，并逐步补充人工智能与软件开发基础。
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
+  <img alt="正在学习 Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white">
+  <img alt="正在学习 Git" src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white">
+  <img alt="使用 GitHub" src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
 </p>
 
-<sub>下一步学习</sub>  
-Linux · 数据分析 · 机器学习
-
 ## 联系方式
+
+欢迎交流学习、技术，也欢迎学弟学妹来聊学业与生活。
 
 - GitHub：[@Crr-ui](https://github.com/Crr-ui)
 - 邮箱：[3082879128@qq.com](mailto:3082879128@qq.com)
 - 邮箱：[13688467698@163.com](mailto:13688467698@163.com)
 
 <br>
-
-<p align="center">
-  <em>数学赋予我表达想法的语言，计算让我有机会将它们变为现实。</em>
-</p>
 
 <p align="center">
   <img alt="主页访问量" src="https://komarev.com/ghpvc/?username=Crr-ui&label=PROFILE%20VIEWS&color=6e7681&style=flat-square">
