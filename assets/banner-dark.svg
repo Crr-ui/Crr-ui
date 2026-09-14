@@ -2,6 +2,18 @@
   <title id="title">Cai Rui</title>
   <desc id="desc">A minimal geometric banner representing mathematics, computing, and artificial intelligence.</desc>
   <defs>
+    <style>
+      .orbit { transform-origin: 1206px 250px; animation: orbit 28s linear infinite; }
+      .trace { stroke-dasharray: 10 12; animation: trace 18s linear infinite; }
+      .node { transform-box: fill-box; transform-origin: center; animation: pulse 4.8s ease-in-out infinite; }
+      .node-b { animation-delay: -1.6s; }
+      .node-c { animation-delay: -3.2s; }
+      @keyframes orbit { to { transform: rotate(360deg); } }
+      @keyframes trace { to { stroke-dashoffset: -220; } }
+      @keyframes pulse { 0%, 100% { transform: scale(1); opacity: .55; } 50% { transform: scale(1.45); opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { .orbit, .trace, .node { animation: none; } }
+    </style>
+
     <linearGradient id="paper" x1="0" y1="0" x2="1500" y2="500" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0D0D0E"/>
       <stop offset="1" stop-color="#18181A"/>
@@ -16,14 +28,14 @@
   <path d="M0 499H1500" stroke="#F5F5F7" stroke-opacity="0.1"/>
 
   <g opacity="0.95">
-    <circle cx="1206" cy="250" r="164" stroke="#F5F5F7" stroke-opacity="0.12"/>
+    <circle class="orbit trace" cx="1206" cy="250" r="164" stroke="#F5F5F7" stroke-opacity="0.12"/>
     <circle cx="1206" cy="250" r="106" stroke="#F5F5F7" stroke-opacity="0.18"/>
     <path d="M1042 250H1370M1206 86V414" stroke="#F5F5F7" stroke-opacity="0.08"/>
     <path d="M1090 134L1322 366M1322 134L1090 366" stroke="#F5F5F7" stroke-opacity="0.08"/>
-    <path d="M1042 250C1094 166 1162 122 1206 122C1250 122 1318 166 1370 250C1318 334 1250 378 1206 378C1162 378 1094 334 1042 250Z" stroke="url(#line)" stroke-width="1.5"/>
-    <circle cx="1090" cy="134" r="7" fill="#F5F5F7"/>
-    <circle cx="1322" cy="134" r="5" fill="#F5F5F7" fill-opacity="0.55"/>
-    <circle cx="1370" cy="250" r="7" fill="#F5F5F7" fill-opacity="0.75"/>
+    <path class="trace" d="M1042 250C1094 166 1162 122 1206 122C1250 122 1318 166 1370 250C1318 334 1250 378 1206 378C1162 378 1094 334 1042 250Z" stroke="url(#line)" stroke-width="1.5"/>
+    <circle class="node" cx="1090" cy="134" r="7" fill="#F5F5F7"/>
+    <circle class="node node-b" cx="1322" cy="134" r="5" fill="#F5F5F7" fill-opacity="0.55"/>
+    <circle class="node node-c" cx="1370" cy="250" r="7" fill="#F5F5F7" fill-opacity="0.75"/>
     <circle cx="1206" cy="378" r="6" fill="#F5F5F7" fill-opacity="0.4"/>
     <circle cx="1042" cy="250" r="4" fill="#F5F5F7" fill-opacity="0.3"/>
   </g>

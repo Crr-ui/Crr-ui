@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="./README.md">English</a> &nbsp;·&nbsp; <strong>中文</strong>
+  <a href="#关于我">关于</a> &nbsp;·&nbsp; <a href="#当前阶段--01">近况</a> &nbsp;·&nbsp; <a href="#工具与技能">工具</a> &nbsp;&nbsp;│&nbsp;&nbsp; <a href="./README.md">English</a> &nbsp;·&nbsp; <strong>中文</strong>
 </p>
 
 <picture>
@@ -12,48 +12,42 @@
   <sub>本科生 · 信息与计算科学 · 电子科技大学</sub>
 </p>
 
+<p align="center">
+  <code>认真学习</code>&nbsp;&nbsp; <code>持续构建</code>&nbsp;&nbsp; <code>真实分享</code>
+</p>
+
 ## 关于我
 
 我是电子科技大学数学科学学院**信息与计算科学**专业的一名本科生。
 
-以数学为基础，我正在学习如何借助计算让想法真正发挥作用。我尤其关注**数学、计算与人工智能**的交叉地带，也会通过小型实验和项目，在这里持续记录自己的探索过程。
+以数学为基础，我正在学习如何借助计算让想法真正发挥作用。我尤其关注**数学、计算与人工智能**的交叉地带，也会通过小型实验与认真实践，在这里持续记录自己的探索过程。
 
-> 认真学习，持续构建，真实分享。
+## 当前阶段 · 01
 
-## 近期方向
+<table>
+  <tr>
+    <td width="26%"><sub>当前状态</sub><br><strong>正在建立基础</strong></td>
+    <td width="74%">培养将想法转化为小而有用的程序所需要的习惯、工具与数学直觉。</td>
+  </tr>
+</table>
 
-| 正在探索 | 当前目标 |
-| --- | --- |
-| **Python** | 写出清晰的程序，建立扎实的编程基础 |
-| **Git 与 GitHub** | 形成可靠、开放的学习与项目工作流 |
-| **人工智能** | 从数学原理和动手实验两方面理解核心概念 |
-| **软件开发** | 学习如何设计、构建、测试并记录真正有用的软件 |
-
-<!--
-## 精选项目
-
-项目准备好后建议只保留 2–4 个代表项目。
-
-### 项目名称
-
-用一句话说明问题与成果。
-
-`Python` `数据分析` · [代码仓库](PROJECT_URL) · [在线演示](DEMO_URL)
--->
-
-<!--
-## 荣誉与奖项
-
-### 奖项名称
-
-**年份 · 颁发机构**  
-用一句简洁的话说明奖项级别、范围或取得的结果。
--->
+|  | 方向 | 当前目标 |
+| :---: | --- | --- |
+| `01` | **Python** | 编程基础与清晰的问题求解能力 |
+| `02` | **Git 与 GitHub** | 建立可靠、开放的学习与开发工作流 |
+| `03` | **人工智能** | 通过数学原理和动手实验理解核心概念 |
+| `04` | **软件开发** | 学习设计、测试并记录真正有用的软件 |
 
 ## 工具与技能
 
-**正在使用：** Python · Git · GitHub  
-**下一步学习：** Linux · 数据分析 · 机器学习
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
+</p>
+
+<sub>下一步学习</sub>  
+Linux · 数据分析 · 机器学习
 
 ## 联系方式
 
@@ -62,5 +56,9 @@
 <br>
 
 <p align="center">
-  <sub>数学赋予我表达想法的语言，计算让我有机会将它们变为现实。</sub>
+  <em>数学赋予我表达想法的语言，计算让我有机会将它们变为现实。</em>
+</p>
+
+<p align="center">
+  <img alt="主页访问量" src="https://komarev.com/ghpvc/?username=Crr-ui&label=PROFILE%20VIEWS&color=6e7681&style=flat-square">
 </p>
